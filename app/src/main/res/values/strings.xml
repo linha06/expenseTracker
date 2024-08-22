@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="expense_title">Expense Title</string>
+    <string name="expense_number">Rp. 15000</string>\
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Enter your expense here</string>
+    <string name="due_date">22/02/2022</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="select_category">Select Category</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="filter_transportasi">Transportasi</string>
+    <string name="filter_makanan">Makanan</string>
+    <string name="filter_minuman">Minuman</string>
+    <string name="action_filter">Filter Category</string>
+    <string name="filter_semua">Semua</string>
+    <string name="date">Date Created</string>
+
+    <string-array name="category_dropdown">
+        <item>Transportasi</item>
+        <item>Makanan</item>
+        <item>Minuman</item>
+    </string-array>
+</resources>

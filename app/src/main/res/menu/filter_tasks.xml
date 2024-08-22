@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/category_transportasi"
+        android:title="@string/filter_transportasi" />
+    <item
+        android:id="@+id/category_makanan"
+        android:title="@string/filter_makanan" />
+    <item
+        android:id="@+id/category_minuman"
+        android:title="@string/filter_minuman" />
+    <item
+        android:id="@+id/category_semua"
+        android:title="@string/filter_semua" />
+</menu>
