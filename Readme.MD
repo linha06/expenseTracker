@@ -1,0 +1,1 @@
+Simple CRUD application with local database
